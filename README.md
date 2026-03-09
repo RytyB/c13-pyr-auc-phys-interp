@@ -23,5 +23,7 @@ of the repo is not changed then these functions should already be added to the p
 For questions about scientific content or to request imaging data, please contact jbankson at mdanderson.org.
 
 <h3> Where can I find the full paper? </h3>
-The manuscript is currently undergoing proofing for publication in Magnetic Resonance in Medicine, but a link to the paper will be added as soon as available. 
+The work is available open-access online!
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.70309
 
